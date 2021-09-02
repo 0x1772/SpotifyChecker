@@ -1,23 +1,24 @@
 ### Spotify Checker
-
-Requirements
 ______________
+🔺Just use for educational purposes only...
 
--Install firefox
+🔺I'm not responsible for anything...
+______________
+### Requirements
+______________
+🔺Install firefox
 
--Install python
+🔺Install python
 
--Install pip
+🔺Install pip
 ______________
 ### Installation : 
 ______________   
-
- - Linux users
    
                python3 spotify.py
 
-📧 Contact :
-------
+### 📧 Contact :
+______________
 You Want Ask About All My Tools: 
 ```
 [+] Email : info@inenarratus.com
